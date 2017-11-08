@@ -75,12 +75,12 @@ helpMessage =""" BOBBOT PROTECT !
 [Bot cancel]
 [Title:]
 """
-KAC=["u0e495c4debaa244e5f61f4e090950f75","uf43eb623c4b246c45690bf19e048af05","uf41eeac6f34ebb531b1acba159203dea"]
+KAC=["u0e495c4debaa244e5f61f4e090950f75","uf43eb623c4b246c45690bf19e048af05","uf41eeac6f34ebb531b1acba159203dea","u1d49a62a9c1ce9bea54d0eced64cf04"]
 mid = cl.getProfile().mid
 Amid = ki.getProfile().mid
 Bmid = kk.getProfile().mid
 
-Bots=["uf43eb623c4b246c45690bf19e048af05","uf41eeac6f34ebb531b1acba159203dea"]
+Bots=["uf43eb623c4b246c45690bf19e048af05","uf41eeac6f34ebb531b1acba159203dea","u1d49a62a9c1ce9bea54d0eced64cf04"]
 admin=["u0e495c4debaa244e5f61f4e090950f75"]
 wait = {
     'contact':True,
